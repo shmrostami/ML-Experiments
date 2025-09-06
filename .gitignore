@@ -3,3 +3,13 @@ LLMOps/RAG/emb/c9d4a18c-c276-4283-aa51-7b8e5c7ffe8b/header.bin
 LLMOps/RAG/emb/c9d4a18c-c276-4283-aa51-7b8e5c7ffe8b/length.bin
 LLMOps/RAG/emb/c9d4a18c-c276-4283-aa51-7b8e5c7ffe8b/link_lists.bin
 LLMOps/RAG/emb/chroma.sqlite3
+LLMOps/RAG/llama-emb/chroma.sqlite3
+LLMOps/RAG/llama-emb/3fd525db-9ceb-4310-98e0-2adc57be298b/data_level0.bin
+LLMOps/RAG/llama-emb/3fd525db-9ceb-4310-98e0-2adc57be298b/header.bin
+LLMOps/RAG/llama-emb/3fd525db-9ceb-4310-98e0-2adc57be298b/length.bin
+LLMOps/RAG/llama-emb/3fd525db-9ceb-4310-98e0-2adc57be298b/link_lists.bin
+LLMOps/RAG/nomic-emb/chroma.sqlite3
+LLMOps/RAG/nomic-emb/e5588ca3-c1b2-4a44-af70-970b4a8adfff/data_level0.bin
+LLMOps/RAG/nomic-emb/e5588ca3-c1b2-4a44-af70-970b4a8adfff/header.bin
+LLMOps/RAG/nomic-emb/e5588ca3-c1b2-4a44-af70-970b4a8adfff/length.bin
+LLMOps/RAG/nomic-emb/e5588ca3-c1b2-4a44-af70-970b4a8adfff/link_lists.bin
