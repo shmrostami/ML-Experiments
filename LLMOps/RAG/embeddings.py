@@ -14,7 +14,7 @@ text_splitter = CharacterTextSplitter(
 loader = TextLoader("facts.txt")
 docs = loader.load_and_split(text_splitter=text_splitter)
 
-# Initialize embeddings with Ollama
+# Initialize embeddings with Ollama 
 model_name = "llama3.2:3b"
 embeddings = OllamaEmbeddings(model=model_name)
 
